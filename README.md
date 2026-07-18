@@ -28,7 +28,7 @@
 
 </div>
 
-Self-driven full-stack developer based in **Bandung, Indonesia**, currently in 11th grade at **SMK Negeri 4 Bandung**. I design and ship full-stack products — from e-commerce platforms to booking systems — with an emphasis on clean architecture, real UX, and things that actually work in production, not just in a demo.
+Self-driven full-stack developer based in **Bandung, Indonesia**, currently in 12th grade at **SMK Negeri 4 Bandung**. I design and ship full-stack products — from e-commerce platforms to booking systems — with an emphasis on clean architecture, real UX, and things that actually work in production, not just in a demo.
 
 ```yaml
 role:       Full-Stack Developer
