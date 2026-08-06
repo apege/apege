@@ -203,7 +203,7 @@ A searchable, filterable dictionary of Indonesian youth slang — built with van
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=apege&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=C9D1D9" width="49%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=apege&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=6366F1&text_color=C9D1D9" width="49%"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apege&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=C9D1D9" width="38%"/>
 
 <img src="https://streak-stats.demolab.com?user=apege&theme=radical&hide_border=true&background=0D1117&ring=EC4899&fire=F97316&currStreakLabel=6366F1" width="60%"/>
